@@ -5,10 +5,15 @@ Un taller de [IEEE Comsoc UNI](https://www.facebook.com/comsocuni) por [Luigi La
 ## Día 1
 
 Presentación
+
 Introducción
+
 Instalación de software requerido
+
 Instalación de librerías
+
 Creación de un entorno virtual
+
 Conceptos base de procesamiento de imágenes y visión artificial
 
 - [Link al dia 1](/dia1) 
