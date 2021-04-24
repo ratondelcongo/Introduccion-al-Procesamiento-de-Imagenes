@@ -9,8 +9,8 @@
 ### Instalación de librerias
 
 `
-pip install virtualenv
-pip install numpy
+pip install virtualenv  
+pip install numpy  
 pip install opencv-python
 `
 
