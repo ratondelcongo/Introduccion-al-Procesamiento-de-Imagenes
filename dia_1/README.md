@@ -10,6 +10,12 @@
 
 [Python](https://www.python.org/)
 
+### Archivos requerido
+
+[Imagen](../src/img/dog1.jpeg?raw=true)
+
+[Video](../src/vid/sample_1.mp4?raw=true)
+
 ### Instalación de librerias
 
 `pip install virtualenv`  
