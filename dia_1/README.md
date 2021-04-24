@@ -1,6 +1,6 @@
 ## Día 1
 
-## Diapositiva
+### Diapositiva
 
 [PPT día 1](Computer%20Vision%20Clase%201.pptx?raw=true)
 
