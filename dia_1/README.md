@@ -27,3 +27,8 @@
 `pip install virtualenv`  
 `pip install numpy`  
 `pip install opencv-python`
+
+### Para permitir el uso de scripts en el PowerShell
+
+Acceder al PowerShell como administrador y pegar lo siguiente:
+`set-executionpolicy remotesigned`
