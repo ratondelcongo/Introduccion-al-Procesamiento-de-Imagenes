@@ -2,7 +2,7 @@
 
 ## Diapositiva
 
-- [PPT día 1](Computer%20Vision%20Clase%201.pptx)
+- [PPT día 1](Computer%20Vision%20Clase%201.pptx?raw=true)
 
 ### Software requerido
 
