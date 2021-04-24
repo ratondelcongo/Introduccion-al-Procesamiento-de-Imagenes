@@ -2,13 +2,13 @@
 
 ## Diapositiva
 
-- [PPT día 1](Computer%20Vision%20Clase%201.pptx?raw=true)
+[PPT día 1](Computer%20Vision%20Clase%201.pptx?raw=true)
 
 ### Software requerido
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
-- [Python](https://www.python.org/)
+[Python](https://www.python.org/)
 
 ### Instalación de librerias
 
