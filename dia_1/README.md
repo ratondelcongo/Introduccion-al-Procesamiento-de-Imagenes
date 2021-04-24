@@ -1,5 +1,9 @@
 ## Día 1
 
+## Diapositiva
+
+- [PPT día 1](Computer%20Vision%20Clase%201.pptx)
+
 ### Software requerido
 
 - [Visual Studio Code](https://code.visualstudio.com/)
