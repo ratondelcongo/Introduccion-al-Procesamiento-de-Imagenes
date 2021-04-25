@@ -2,6 +2,10 @@
  
 Un taller de [IEEE Comsoc UNI](https://www.facebook.com/comsocuni) por [Luigi Layme](https://github.com/ratondelcongo)
 
+## Libros
+
+[Libros](libros) 
+
 ## Día 1
 
 Presentación  
