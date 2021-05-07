@@ -4,6 +4,16 @@
 
 [PPT día 1](Computer%20Vision%20Clase%201.pptx?raw=true)
 
+### Temas
+
+    Presentación
+    Instalación de software requerido
+    Introducción
+    Instalación de librerías
+    Creación de un entorno virtual
+    Conceptos base de procesamiento de imágenes y visión artificial
+
+
 ### Software requerido
 
 [Visual Studio Code](https://code.visualstudio.com/)
