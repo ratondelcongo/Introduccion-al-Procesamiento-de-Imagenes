@@ -6,12 +6,12 @@
 
 ### Temas
 
--Presentación
--Instalación de software requerido
--Introducción
--Instalación de librerías
--Creación de un entorno virtual
--Conceptos base de procesamiento de imágenes y visión artificial
+-Presentación  
+-Instalación de software requerido  
+-Introducción  
+-Instalación de librerías  
+-Creación de un entorno virtual  
+-Conceptos base de procesamiento de imágenes y visión artificial  
 
 
 ### Software requerido
