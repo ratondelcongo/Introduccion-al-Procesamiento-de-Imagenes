@@ -36,7 +36,8 @@
 
 `pip install virtualenv`  
 `pip install numpy`  
-`pip install opencv-python`
+`pip install opencv-python`  
+`pip install imutils`  
 
 ### Para permitir el uso de scripts en el PowerShell
 

@@ -6,7 +6,7 @@ Un taller de [IEEE Comsoc UNI](https://www.facebook.com/comsocuni) por [Luigi La
 
 [Libros](libros) 
 
-### Archivos requerido
+## Archivos requeridos
 
 [Imagen 1](../src/img/perro1.png?raw=true)  
 [Imagen 2](../src/img/perro2.png?raw=true)  
@@ -21,7 +21,7 @@ Introducción
 Instalación de software requerido  
 Instalación de librerías  
 Creación de un entorno virtual  
-Conceptos base de procesamiento de imágenes y visión artificial
+Conceptos base de procesamiento de imágenes y visión artificial  
 
 [Link al dia 1](dia_1) 
 
@@ -32,6 +32,6 @@ Introducción
 Instalación de software requerido  
 Instalación de librerías  
 Creación de un entorno virtual  
-Conceptos base de procesamiento de imágenes y visión artificial
+Conceptos base de procesamiento de imágenes y visión artificial  
 
 [Link al dia 2](dia_2) 
